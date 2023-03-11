@@ -23,7 +23,7 @@
 ## About The Project
 
 
-We are FiveM Israel, a project based on ![FiveM](https://fivem.net/) that allows to rank servers on the popular platform <strong> ![Discord](https://www.discord.com)8</strong>!
+We are FiveM Israel, a project based on [FiveM](https://fivem.net/) that allows to rank servers on the popular platform <strong> [Discord](https://www.discord.com)</strong>!
 
 
 
