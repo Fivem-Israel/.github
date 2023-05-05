@@ -1,5 +1,3 @@
-Sure, here's the updated README with additional information:
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
